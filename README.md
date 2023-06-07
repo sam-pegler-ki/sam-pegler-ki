@@ -1,0 +1,5 @@
+- 👋 Hi, I’m actually https://github.com/Poogles
+- 👀 I’m interested in Python, Clojure and SRE.
+- 🌱 I’m currently learning some Go.
+- 💞️ I’m looking to collaborate on anything fun.
+- 📫 Reach me on jobs@sampegler.co.uk or https://twitter.com/HoeBlogggs
